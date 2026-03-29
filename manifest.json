@@ -1,0 +1,26 @@
+{
+  "short_name": "MathZen",
+  "name": "MathZen — Mental Math Trainer",
+  "description": "Train your mental math speed, accuracy, and consistency daily.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "scope": "/",
+  "background_color": "#0e0f14",
+  "theme_color": "#7c6ff7",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education", "games", "utilities"]
+}
